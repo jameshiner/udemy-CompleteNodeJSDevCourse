@@ -5,6 +5,7 @@ TODO
 notes.json
 keys.js
 dev.env
+test.env
 
 # Logs
 logs
